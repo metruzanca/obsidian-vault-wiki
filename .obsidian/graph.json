@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Development/poc-fe",
+      "color": {
+        "a": 1,
+        "rgb": 4057343
+      }
+    },
+    {
+      "query": "path:Development/awpl-api",
+      "color": {
+        "a": 1,
+        "rgb": 5829474
+      }
+    },
+    {
+      "query": "path:brkfst",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
+      }
+    },
+    {
+      "query": "path:Project",
+      "color": {
+        "a": 1,
+        "rgb": 16740464
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.3363243595633409,
+  "close": false
+}

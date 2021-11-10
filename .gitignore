@@ -1,0 +1,8 @@
+.swp
+.vscode
+.DS_Store
+_attachments
+
+# Obsidian
+.obsidian/workspace
+.obsidian/appearance.json

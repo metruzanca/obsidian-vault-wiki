@@ -1,0 +1,27 @@
+{
+  "spellcheck": false,
+  "readableLineLength": true,
+  "newFileLocation": "current",
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "showLineNumber": false,
+  "emacsyKeys": false,
+  "spellcheckDictionary": [
+    "Subforms",
+    "Subform",
+    "subforms",
+    "Formik",
+    "HOCs",
+    "APIs",
+    "Subcomponents",
+    "makeSubform",
+    "makeForm",
+    "namespace",
+    "makeArray"
+  ],
+  "strictLineBreaks": true,
+  "attachmentFolderPath": "./assets"
+}
