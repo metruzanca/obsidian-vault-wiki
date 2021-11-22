@@ -2,6 +2,6 @@
   "style": "bullet",
   "min_depth": 2,
   "max_depth": 6,
-  "externalStyle": "_TOC_",
+  "externalStyle": "AzureWiki",
   "supportAllMatchers": false
 }

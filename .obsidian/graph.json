@@ -4,7 +4,7 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -25,7 +25,7 @@
       "query": "path:brkfst",
       "color": {
         "a": 1,
-        "rgb": 16514816
+        "rgb": 9175295
       }
     },
     {
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3363243595633409,
-  "close": false
+  "scale": 0.29762832065169625,
+  "close": true
 }

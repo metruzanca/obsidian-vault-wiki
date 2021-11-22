@@ -1,6 +1,6 @@
 {
   "spellcheck": false,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "newFileLocation": "current",
   "useMarkdownLinks": true,
   "newLinkFormat": "relative",
