@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "8977e704bc94197b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5d902ee8fb907ee",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f2df488189f679c",
+    "type": "split",
+    "children": [
+      {
+        "id": "23a01c23cc42cf0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cec2ff83b6042b3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b6cfca792cd62629",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "TOC",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "21fde78c82512c11",
+    "type": "split",
+    "children": [
+      {
+        "id": "4602dca0f08037d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f867d8dadcb65f05",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "27c5e3d7642b333e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f5d902ee8fb907ee",
+  "lastOpenFiles": [
+    "README.md",
+    "brkfst/Google-Ads-Search/Account-Creation.md",
+    "brkfst/Google-Ads-Search/%22AdGroup%22-Campaign-Creation.md",
+    "Development.md",
+    "Development/wpl-func.md",
+    "Development/wpl-func/facebook-adprocessing-system.md",
+    "Development/awpl-api.md",
+    "Project/Sprint-16.md",
+    "Development/poc-fe/Shared/Components.md",
+    "Development/poc-fe/Shared/Components/RangeSlider.md"
+  ]
+}

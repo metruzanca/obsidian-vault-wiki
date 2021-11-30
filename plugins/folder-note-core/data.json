@@ -1,0 +1,8 @@
+{
+  "folderNotePref": 2,
+  "deleteOutsideNoteWithFolder": false,
+  "indexName": "_about_",
+  "autoRename": true,
+  "folderNoteTemplate": "<%tp.user.breadcrumbs({tp, indexName: 'README'})%>\n\n# {{FOLDER_NAME}}",
+  "logLevel": 4
+}
